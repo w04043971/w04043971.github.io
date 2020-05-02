@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+![My picture](https://user-images.githubusercontent.com/54900364/80893480-0df8eb00-8ca9-11ea-9ed5-95c253bad733.png)
+
 [Dragos](https://w04043971.github.io/HelloWord/dist/)
 You can use the [editor on GitHub](https://github.com/w04043971/w04043971.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
